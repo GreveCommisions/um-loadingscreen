@@ -1,3 +1,16 @@
-- New Loading Screen added
-- Added ERPT Ford Focus Active
-- Added ERPT Unmarked Ford Focus Active
+-Fixed Boss Menu Problem
+-Fixed Setjob Probelm
+-Removed Not Working Buttons in RadialMenu
+-Fixed Job not saving if player rejoined the server 
+-Fixed Radio Joining channels  by F1 
+-Added a New Phone  
+-Added a New Radio 
+-Fixed lockpick Problem
+-fixed phone problem
+-fixed inventory problem
+-Removed Some bad behavior and backdoors Codes
+-Removed and Updated All Errors and Scripts in F8 Consol and CMD So Now there is no error anymore in the files
+-add the the radialmenus scritps:
+vehicle menu :cskasper: 
+animation menu:cskasper: 
+
